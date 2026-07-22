@@ -10,6 +10,8 @@ const basePath = (process.env.BASE_PATH || "").replace(/\/$/, "");
 
 const nextConfig: NextConfig = {
   output: "export",
+  // Clean URLs on GitHub Pages: /zozan/ → zozan/index.html
+  trailingSlash: true,
   images: {
     unoptimized: true,
   },
