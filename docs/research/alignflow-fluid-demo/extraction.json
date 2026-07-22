@@ -1,0 +1,902 @@
+{
+  "title": "Align and Flow",
+  "description": "",
+  "bodyStyles": {
+    "fontFamily": "sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "color": "rgb(51, 51, 51)",
+    "backgroundColor": "rgb(238, 237, 235)",
+    "display": "block"
+  },
+  "headers": [
+    {
+      "tag": "h1",
+      "text": "A yoga & meditation collective that’s passionate about helping you stay grounded on the go.",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "Find a flow that fits your schedule",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h4",
+      "text": "Discover a practice that makes you",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "17.728px",
+        "fontWeight": "400",
+        "lineHeight": "22.9542px",
+        "letterSpacing": "0.17728px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "STRONGER CALMER LIGHTER",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "36.736px",
+        "fontWeight": "400",
+        "lineHeight": "45.4645px",
+        "letterSpacing": "0.36736px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "BALANCED FOCUSED PATIENT",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "36.736px",
+        "fontWeight": "400",
+        "lineHeight": "45.4645px",
+        "letterSpacing": "0.36736px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "S · P · A · C · I · O · U · S",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "36.736px",
+        "fontWeight": "400",
+        "lineHeight": "45.4645px",
+        "letterSpacing": "0.36736px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "With experienced teachers you can trust",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "Choose a practice plan",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Yoga Principles",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Free",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Unlimited Yoga & Meditation",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "$15/mo",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "200-hr Teacher Training",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "$3,500",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "32px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "With a variety of styles and formats to match your goals",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 32px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "From the Journal",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "36.736px",
+        "fontWeight": "400",
+        "lineHeight": "45.4645px",
+        "letterSpacing": "0.36736px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "Make space for yourself",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "50.56px",
+        "fontWeight": "400",
+        "lineHeight": "60.4698px",
+        "letterSpacing": "0.5056px",
+        "color": "rgb(255, 255, 255)",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Align & Flow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "35.5021px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "Subscribe to our newsletter",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "28.096px",
+        "fontWeight": "400",
+        "lineHeight": "36.5248px",
+        "letterSpacing": "0.28096px",
+        "color": "rgb(0, 0, 0)",
+        "margin": "0px 0px 16px",
+        "display": "block"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "Skip to Content",
+      "href": "https://alignflow-fluid-demo.squarespace.com/#page",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "14.272px",
+        "fontWeight": "500",
+        "letterSpacing": "0.57088px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "maxWidth": "1402.89px",
+        "display": "block"
+      }
+    },
+    {
+      "text": "Sign up",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "14.272px",
+        "fontWeight": "500",
+        "letterSpacing": "0.57088px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Open Menu Close Menu",
+      "href": null,
+      "styles": {
+        "fontFamily": "adobe-garamond-pro",
+        "fontSize": "19.456px",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "padding": "1px 6px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Sign up",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "14.272px",
+        "fontWeight": "500",
+        "letterSpacing": "0.57088px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Open Menu Close Menu",
+      "href": null,
+      "styles": {
+        "fontFamily": "adobe-garamond-pro",
+        "fontSize": "19.456px",
+        "fontWeight": "400",
+        "color": "rgb(0, 0, 0)",
+        "padding": "1px 6px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Sign up",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "19.2px",
+        "fontWeight": "500",
+        "letterSpacing": "0.768px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "margin": "57.6px 86.4px 86.4px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Explore plans",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "17.728px",
+        "fontWeight": "500",
+        "letterSpacing": "0.70912px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "0px 34.736px",
+        "display": "flex"
+      }
+    },
+    {
+      "text": "Sign Up",
+      "href": null,
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "letterSpacing": "0.64px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "margin": "33px 0px 0px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Sign Up",
+      "href": null,
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "letterSpacing": "0.64px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "margin": "33px 0px 0px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Sign Up",
+      "href": null,
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "letterSpacing": "0.64px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "20.8px 34.736px",
+        "margin": "33px 0px 0px",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "Explore classes",
+      "href": "https://alignflow-fluid-demo.squarespace.com/classes",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "17.728px",
+        "fontWeight": "500",
+        "letterSpacing": "0.70912px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "0px 34.736px",
+        "display": "flex"
+      }
+    },
+    {
+      "text": "More posts",
+      "href": "https://alignflow-fluid-demo.squarespace.com/journal",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "letterSpacing": "0.64px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "0px 34.736px",
+        "display": "flex"
+      }
+    },
+    {
+      "text": "Choose a plan",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow",
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "letterSpacing": "0.64px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(225, 204, 190)",
+        "padding": "0px 34.736px",
+        "display": "flex"
+      }
+    },
+    {
+      "text": "Sign up",
+      "href": null,
+      "styles": {
+        "fontFamily": "orpheus-pro",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "19.2px",
+        "letterSpacing": "0.64px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "padding": "22.4px 32px",
+        "display": "inline-block"
+      }
+    }
+  ],
+  "navLinks": [
+    {
+      "text": "Classes",
+      "href": "https://alignflow-fluid-demo.squarespace.com/classes"
+    },
+    {
+      "text": "Teachers",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teachers"
+    },
+    {
+      "text": "Training",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teacher-training"
+    },
+    {
+      "text": "Journal",
+      "href": "https://alignflow-fluid-demo.squarespace.com/journal"
+    },
+    {
+      "text": "Login",
+      "href": "https://alignflow-fluid-demo.squarespace.com/#"
+    },
+    {
+      "text": "Classes",
+      "href": "https://alignflow-fluid-demo.squarespace.com/classes"
+    },
+    {
+      "text": "Teachers",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teachers"
+    },
+    {
+      "text": "Training",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teacher-training"
+    },
+    {
+      "text": "Journal",
+      "href": "https://alignflow-fluid-demo.squarespace.com/journal"
+    },
+    {
+      "text": "Login",
+      "href": "https://alignflow-fluid-demo.squarespace.com/#"
+    },
+    {
+      "text": "Classes",
+      "href": "https://alignflow-fluid-demo.squarespace.com/classes"
+    },
+    {
+      "text": "Teachers",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teachers"
+    },
+    {
+      "text": "Training",
+      "href": "https://alignflow-fluid-demo.squarespace.com/teacher-training"
+    },
+    {
+      "text": "Journal",
+      "href": "https://alignflow-fluid-demo.squarespace.com/journal"
+    },
+    {
+      "text": "Login",
+      "href": "https://alignflow-fluid-demo.squarespace.com/#"
+    },
+    {
+      "text": "Sign up",
+      "href": "https://alignflow-fluid-demo.squarespace.com/joinnow"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "id": "header",
+      "classes": "header theme-col--primary",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "Skip to Content Align and Flow Classes Teachers Training Journal Login Sign up",
+      "images": []
+    },
+    {
+      "index": 1,
+      "id": null,
+      "classes": "header-menu header-menu--folder-list\n      light\n      \n      \n      \n      \n      ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "116.188px 0px 0px",
+      "textSample": "",
+      "images": []
+    },
+    {
+      "index": 2,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "116.188px 0px 0px",
+      "textSample": "A yoga & meditation collective that’s passionate about helping you stay grounded on the go.",
+      "images": []
+    },
+    {
+      "index": 3,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Member Arya practicing Backbends with Denise in her studio Instructor Jordan leading Morning Meditation from home",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512921-CYPETPKQV9Q9NRXOP18K/image-asset.jpeg?format=750w",
+          "alt": "Woman performing advanced yoga pose",
+          "w": 656,
+          "h": 875
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512925-6FUQBCBBKA2BFS3D289O/image-asset.jpeg?format=500w",
+          "alt": "Close up of a man meditating peaceful in yoga studio",
+          "w": 379,
+          "h": 568
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "594px",
+      "padding": "0px",
+      "textSample": "Plan your practice Find a flow that fits your schedule We’ve created three types of membership plans to best align with your individual practice. Whether you’re looking to improve on basic yoga principles, gain unlimited access to a variety of classes, or start a teacher training",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512930-HF8B8Z48HBX0VSWYC57F/image-asset.jpeg?format=750w",
+          "alt": "",
+          "w": 601,
+          "h": 751
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Discover a practice that makes you STRONGER CALMER LIGHTER BALANCED FOCUSED PATIENT S · P · A · C · I · O · U · S",
+      "images": []
+    },
+    {
+      "index": 6,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Receive gentle guidance With experienced teachers you can trust Each of our registered yoga teachers have gone through certified training programs, specializing in a variety of different practices including Hatha, Vinyasa, Ashtanga, and Yin. At Align & Flow, we provide guidance f",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512936-DYGEHDTBCKJUYOTC0E4U/image-asset.jpeg?format=750w",
+          "alt": "Man performing warrior pose outdoors during sunrise",
+          "w": 601,
+          "h": 601
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Choose a practice plan Yoga Principles Explore different styles of yoga & meditation with foundational tutorial videos for both beginners and experienced practitioners. Free Sign Up Unlimited Yoga & Meditation Keep your options open with a full virtual library of classes, ranging",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512943-94EC1HPBE08VDJ24IURE/image-asset.jpeg?format=500w",
+          "alt": "Minimalist white staircase",
+          "w": 434,
+          "h": 542
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512948-M9QVEYI2B62QI2BJ0O6E/image-asset.jpeg?format=500w",
+          "alt": "Woman meditating peacefully in yoga studio",
+          "w": 434,
+          "h": 542
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512957-TD5VHDII2D2FKIU2WHGH/image-asset.jpeg?format=500w",
+          "alt": "Colorful marble texture image",
+          "w": 434,
+          "h": 542
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Explore our virtual classes With a variety of styles and formats to match your goals Not all yoga and meditation is made the same, which is why we’ve created a dynamic selection of classes and video tutorials. Whether you’re looking for a full cardio flow or a relaxing meditation",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512962-3Q6429IAYTOL2HBCO8QM/image-asset.jpeg",
+          "alt": "Woman performs audio meditation using brass singing bowl",
+          "w": 0,
+          "h": 0
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Instructor Alexis leading Unwind Meditation from an open field in Marfa, TX",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512970-ETIXDQNRZKUMBB5WZP2H/image-asset.jpeg",
+          "alt": "Woman meditating peacefully outdoors",
+          "w": 0,
+          "h": 0
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512966-ANCG4LEYE4X9PITRCAQP/image-asset.gif",
+          "alt": "Wheat grass stalks swaying gently in the wind during colorful sunset",
+          "w": 0,
+          "h": 0
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "From the Journal Sharing your practice with family March 2, 2020 Setting up your space March 2, 2020 The importance of getting out of our comfort zone March 2, 2020 Poses 101: Lunge March 2, 2020 More posts",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516851-2LNY1DJYEYETX85L7O6V/journal-1.jpg?format=300w",
+          "alt": "Sharing your practice with family",
+          "w": 300,
+          "h": 300
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516840-8AZIXVTE3UPUWRI96WKZ/home-2.jpg?format=300w",
+          "alt": "Setting up your space",
+          "w": 300,
+          "h": 450
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516779-T3L5PXBWLCCH6QW0JCM6/palm.jpg?format=300w",
+          "alt": "The importance of getting out of our comfort zone",
+          "w": 300,
+          "h": 300
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516794-8HNIZABZ3BNKTKQIHWD1/home-4.jpg?format=300w",
+          "alt": "Poses 101: Lunge",
+          "w": 300,
+          "h": 450
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--inset\n    \n      \n   ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "57.6px",
+      "textSample": "Make space for yourself Choose a plan",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512973-IZOAL2IA0MZBJ6F34S5L/home-11.jpg",
+          "alt": "",
+          "w": 0,
+          "h": 0
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "id": null,
+      "classes": "page-section \n    \n      full-bleed-section\n      layout-engine-section\n    \n    background-width--full-bleed\n    \n     ",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "90px",
+      "padding": "0px",
+      "textSample": "Align & Flow Stay in the Loop — Subscribe to our newsletter Sign up Made with Squarespace",
+      "images": []
+    }
+  ],
+  "allImgs": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512921-CYPETPKQV9Q9NRXOP18K/image-asset.jpeg?format=750w",
+      "alt": "Woman performing advanced yoga pose",
+      "w": 656,
+      "h": 875
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512925-6FUQBCBBKA2BFS3D289O/image-asset.jpeg?format=500w",
+      "alt": "Close up of a man meditating peaceful in yoga studio",
+      "w": 379,
+      "h": 568
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512930-HF8B8Z48HBX0VSWYC57F/image-asset.jpeg?format=750w",
+      "alt": "",
+      "w": 601,
+      "h": 751
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512936-DYGEHDTBCKJUYOTC0E4U/image-asset.jpeg?format=750w",
+      "alt": "Man performing warrior pose outdoors during sunrise",
+      "w": 601,
+      "h": 601
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512943-94EC1HPBE08VDJ24IURE/image-asset.jpeg?format=500w",
+      "alt": "Minimalist white staircase",
+      "w": 434,
+      "h": 542
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512948-M9QVEYI2B62QI2BJ0O6E/image-asset.jpeg?format=500w",
+      "alt": "Woman meditating peacefully in yoga studio",
+      "w": 434,
+      "h": 542
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512957-TD5VHDII2D2FKIU2WHGH/image-asset.jpeg?format=500w",
+      "alt": "Colorful marble texture image",
+      "w": 434,
+      "h": 542
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512962-3Q6429IAYTOL2HBCO8QM/image-asset.jpeg",
+      "alt": "Woman performs audio meditation using brass singing bowl",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512970-ETIXDQNRZKUMBB5WZP2H/image-asset.jpeg",
+      "alt": "Woman meditating peacefully outdoors",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512966-ANCG4LEYE4X9PITRCAQP/image-asset.gif",
+      "alt": "Wheat grass stalks swaying gently in the wind during colorful sunset",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516851-2LNY1DJYEYETX85L7O6V/journal-1.jpg?format=300w",
+      "alt": "Sharing your practice with family",
+      "w": 300,
+      "h": 300
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516840-8AZIXVTE3UPUWRI96WKZ/home-2.jpg?format=300w",
+      "alt": "Setting up your space",
+      "w": 300,
+      "h": 450
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516779-T3L5PXBWLCCH6QW0JCM6/palm.jpg?format=300w",
+      "alt": "The importance of getting out of our comfort zone",
+      "w": 300,
+      "h": 300
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304516794-8HNIZABZ3BNKTKQIHWD1/home-4.jpg?format=300w",
+      "alt": "Poses 101: Lunge",
+      "w": 300,
+      "h": 450
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/64de847d9185a52fbf9d6f07/1692304512973-IZOAL2IA0MZBJ6F34S5L/home-11.jpg",
+      "alt": "",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "src": "https://assets.squarespace.com/universal/images-v6/damask/logo-light.svg",
+      "alt": "Squarespace",
+      "w": 24,
+      "h": 24
+    }
+  ],
+  "bgUrls": [],
+  "icons": [
+    {
+      "href": "https://assets.squarespace.com/universal/default-favicon.ico",
+      "sizes": "",
+      "rel": "icon"
+    }
+  ],
+  "colors": [
+    "rgb(51, 51, 51)",
+    "rgb(238, 237, 235)",
+    "rgb(0, 0, 0)",
+    "rgb(255, 255, 255)"
+  ],
+  "fonts": [
+    "sans-serif",
+    "adobe-garamond-pro",
+    "orpheus-pro"
+  ],
+  "fullText": "Skip to Content\nAlign and Flow\nClasses\nTeachers\nTraining\nJournal\nLogin\nSign up\nA yoga & meditation collective that’s passionate about helping you stay grounded on the go. \n\nMember Arya practicing Backbends with Denise in her studio\n\nInstructor Jordan leading Morning Meditation from home\n\nPlan your practice\n\nFind a flow that fits your schedule\n\nWe’ve created three types of membership plans to best align with your individual practice. Whether you’re looking to improve on basic yoga principles, gain unlimited access to a variety of classes, or start a teacher training program—we’ve got a plan that can flex to meet your goals.\n\nExplore plans\nDiscover a practice that makes you\nSTRONGER  CALMER  LIGHTER  \nBALANCED  FOCUSED  PATIENT\nS · P · A · C · I · O · U · S\n\nReceive gentle guidance\n\nWith experienced teachers you can trust\n\nEach of our registered yoga teachers have gone through certified training programs, specializing in a variety of different practices including Hatha, Vinyasa, Ashtanga, and Yin. At Align & Flow, we provide guidance for all levels of practice so you can decide what feels best for your body. \n\nMeet your teachers\n\nChoose a practice plan\nYoga Principles\n\nExplore different styles of yoga & meditation with foundational tutorial videos for both beginners and experienced practitioners.\n\nFree\nSign Up\nUnlimited Yoga & Meditation\n\nKeep your options open with a full virtual library of classes, ranging from 5-minute meditations to 75-minute yoga flows.\n\n$15/mo\nSign Up\n200-hr Teacher Training\n\nTake your practice to the next level by participating in our certified yoga teacher training program. Learn more about our approach.\n\n$3,500\nSign Up\n\nExplore our virtual classes\n\nWith a variety of styles and formats to match your goals\n\nNot all yoga and meditation is made the same, which is why we’ve created a dynamic selection of classes and video tutorials. Whether you’re looking for a full cardio flow or a relaxing meditation, we’ve got the options you need to balance your practice.\n\nExplore classes\n\nInstructor Alexis leading Unwind Meditation from an open field in Marfa, TX\n\nFrom the Journal\nSharing your practice with family\nMarch 2, 2020\n \nSetting up your space\nMarch 2, 2020\n \nThe importance of getting out of our comfort zone\nMarch 2, 2020\n \nPoses 101: Lunge\nMarch 2, 2020\nMore posts\nMake space for yourself\nChoose a plan\nAlign & Flow\n\nStay in the Loop\n—\n\nSubscribe to our newsletter\n\n Sign up\n\nMade with Squarespace\n\nCreate A Site Like This\nFree trial. Instant access."
+}

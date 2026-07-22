@@ -13,8 +13,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: {
+    default: "Website Clones",
+    template: "%s · Website Clones",
+  },
+  description: "Pixel-faithful Next.js clones of Align and Flow and Ludo Bolcato",
 };
 
 export default function RootLayout({

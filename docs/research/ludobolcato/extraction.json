@@ -1,0 +1,647 @@
+{
+  "title": "Ludo Bolcato",
+  "description": "Ludo's yoga classes are designed to achieve strength and flexibility, both in the body and in the mind, combining harmonious movements with specific breathing techniques. Her purpose is to connect with you and help you find more balance in this beautifully chaotic and fast-paced life.",
+  "bodyStyles": {
+    "fontFamily": "futura-pt",
+    "fontSize": "16px",
+    "fontWeight": "300",
+    "lineHeight": "33.6px",
+    "letterSpacing": "1.44px",
+    "color": "rgb(0, 0, 0)",
+    "backgroundColor": "rgb(255, 255, 255)",
+    "display": "block"
+  },
+  "headers": [
+    {
+      "tag": "h1",
+      "text": "Hi, I’m Ludo",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "56px",
+        "fontWeight": "300",
+        "lineHeight": "84px",
+        "letterSpacing": "3.36px",
+        "color": "rgb(0, 26, 22)",
+        "margin": "0px 0px 37.52px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Welcome to this healing space",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "27px",
+        "fontWeight": "300",
+        "lineHeight": "51.3px",
+        "letterSpacing": "2.7px",
+        "color": "rgb(172, 42, 55)",
+        "margin": "15px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "“Be where you are, not where you think you should be.”",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "30px",
+        "fontWeight": "400",
+        "lineHeight": "63px",
+        "letterSpacing": "3.3px",
+        "color": "rgb(0, 71, 62)",
+        "margin": "0px 0px 24.9px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "classes",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "56px",
+        "fontWeight": "300",
+        "lineHeight": "84px",
+        "letterSpacing": "3.36px",
+        "color": "rgb(38, 38, 38)",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "Hatha Yoga",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "lineHeight": "50.4px",
+        "letterSpacing": "2.64px",
+        "color": "rgb(38, 38, 38)",
+        "margin": "0px 0px 19.92px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "Dynamic Yoga Flow",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "lineHeight": "50.4px",
+        "letterSpacing": "2.64px",
+        "color": "rgb(38, 38, 38)",
+        "margin": "0px 0px 19.92px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h2",
+      "text": "Stretchy Flow",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "24px",
+        "fontWeight": "400",
+        "lineHeight": "50.4px",
+        "letterSpacing": "2.64px",
+        "color": "rgb(38, 38, 38)",
+        "margin": "0px 0px 19.92px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "about",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "56px",
+        "fontWeight": "300",
+        "lineHeight": "84px",
+        "letterSpacing": "3.36px",
+        "color": "rgb(0, 26, 22)",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h3",
+      "text": "Lots of love, Ludo x",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "27px",
+        "fontWeight": "300",
+        "lineHeight": "51.3px",
+        "letterSpacing": "2.7px",
+        "color": "rgb(172, 42, 55)",
+        "margin": "27px 0px 0px",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "Blog",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "56px",
+        "fontWeight": "300",
+        "lineHeight": "84px",
+        "letterSpacing": "3.36px",
+        "color": "rgb(0, 26, 22)",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "h1",
+      "text": "get in touch",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "56px",
+        "fontWeight": "300",
+        "lineHeight": "84px",
+        "letterSpacing": "3.36px",
+        "color": "rgb(41, 41, 41)",
+        "margin": "0px 0px 37.52px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "text": "",
+      "href": null,
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "letterSpacing": "1.44px",
+        "color": "rgb(0, 0, 0)",
+        "padding": "8px",
+        "display": "block"
+      }
+    },
+    {
+      "text": "",
+      "href": null,
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "300",
+        "letterSpacing": "1.44px",
+        "color": "rgb(0, 0, 0)",
+        "padding": "22px",
+        "display": "block"
+      }
+    },
+    {
+      "text": "book a class",
+      "href": "https://www.ludobolcato.com/book-a-class",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "0.8px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "21px 34px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "text": "book a class",
+      "href": "https://www.ludobolcato.com/book-a-class",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "1.59px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "25px 46px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "text": "book a class",
+      "href": "https://www.ludobolcato.com/book-a-class",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "1.59px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "25px 46px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "text": "book a class",
+      "href": "https://www.ludobolcato.com/book-a-class",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "letterSpacing": "1.59px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "25px 46px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "text": "SubmitSubmit",
+      "href": null,
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "33.6px",
+        "letterSpacing": "0.88px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "16px 40px",
+        "textTransform": "uppercase",
+        "display": "inline-block"
+      }
+    },
+    {
+      "text": "book a class",
+      "href": "https://www.ludobolcato.com/book-a-class",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "15px",
+        "fontWeight": "400",
+        "letterSpacing": "0.8px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(237, 176, 176)",
+        "padding": "21px 34px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    },
+    {
+      "text": "designed by visuable",
+      "href": "https://visuable.co/",
+      "styles": {
+        "fontFamily": "futura-pt",
+        "fontSize": "9px",
+        "fontWeight": "500",
+        "letterSpacing": "1.66px",
+        "color": "rgb(38, 38, 38)",
+        "padding": "13px 26px",
+        "textTransform": "uppercase",
+        "display": "block"
+      }
+    }
+  ],
+  "navLinks": [
+    {
+      "text": "HOME",
+      "href": "https://www.ludobolcato.com/"
+    },
+    {
+      "text": "ABOUT",
+      "href": "https://www.ludobolcato.com/home/#about"
+    },
+    {
+      "text": "CLASSES",
+      "href": "https://www.ludobolcato.com/home/#classes"
+    },
+    {
+      "text": "TESTIMONIALS",
+      "href": "https://www.ludobolcato.com/home/#testimonials-feed"
+    },
+    {
+      "text": "BLOG",
+      "href": "https://www.ludobolcato.com/home/#blog-feed"
+    },
+    {
+      "text": "CONTACT",
+      "href": "https://www.ludobolcato.com/home/#contact"
+    },
+    {
+      "text": "HOME",
+      "href": "https://www.ludobolcato.com/"
+    },
+    {
+      "text": "ABOUT",
+      "href": "https://www.ludobolcato.com/home/#about"
+    },
+    {
+      "text": "CLASSES",
+      "href": "https://www.ludobolcato.com/home/#classes"
+    },
+    {
+      "text": "TESTIMONIALS",
+      "href": "https://www.ludobolcato.com/home/#testimonials-feed"
+    },
+    {
+      "text": "BLOG",
+      "href": "https://www.ludobolcato.com/home/#blog-feed"
+    },
+    {
+      "text": "CONTACT",
+      "href": "https://www.ludobolcato.com/home/#contact"
+    },
+    {
+      "text": "Ludo Bolcato",
+      "href": "https://www.ludobolcato.com/#ludo-bolcato"
+    },
+    {
+      "text": "Intro",
+      "href": "https://www.ludobolcato.com/#introduction"
+    },
+    {
+      "text": "Classes",
+      "href": "https://www.ludobolcato.com/#classes"
+    },
+    {
+      "text": "About",
+      "href": "https://www.ludobolcato.com/#about"
+    },
+    {
+      "text": "Mission",
+      "href": "https://www.ludobolcato.com/#mission"
+    },
+    {
+      "text": "Testimonials",
+      "href": "https://www.ludobolcato.com/#testimonials-feed"
+    },
+    {
+      "text": "Blog",
+      "href": "https://www.ludobolcato.com/#blog-feed"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://www.ludobolcato.com/#contact"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "id": "ludo-bolcato",
+      "classes": "Index-page Index-page--has-image",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "BOOK A CLASS",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1598975336940-61D3G9CKQ64GYVCVE08D/Artboard+6.png?format=750w",
+          "alt": "Artboard 6.png",
+          "w": 720,
+          "h": 94
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "id": "introduction",
+      "classes": "Index-page",
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "Hi, I’m Ludo Welcome to this healing space I’m a yoga teacher with an incredible passion for the way our bodies move. My classes are designed to achieve strength and flexibility, both in the body and in the mind, combining harmonious movements with specific breathing techniques. ",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599561469103-8987Z4G06750N95Q5D6F/online-hatha-yoga-classes?format=500w",
+          "alt": "online-hatha-yoga-classes",
+          "w": 480,
+          "h": 720
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599047507685-XXO1U1SODXSX9F52QLYP/online-dynamic-yoga-classes?format=500w",
+          "alt": "online-dynamic-yoga-classes",
+          "w": 480,
+          "h": 720
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "id": "classes",
+      "classes": "Index-page Index-page--has-image",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "CLASSES HATHA YOGA Hatha Yoga connects the body and mind through the practice of asanas (physical postures) and pranayama (breathing exercises). Focus and attention will be on the precise alignment of the body to achieve balance both mentally and physically. BOOK A CLASS DYNAMIC ",
+      "images": []
+    },
+    {
+      "index": 3,
+      "id": "about",
+      "classes": "Index-page",
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "ABOUT I came to yoga as a way to challenge my then awful flexibility and quiet my restless mind and was instantly struck by the healing powers of this discipline. I was extremely fascinated by the beautiful postures some of my fellow yogis achieved and dreamt of being able to per",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1604482039701-5FXXOQTZNEB24HTXEZLR/online-dynamic-yoga-classes?format=500w",
+          "alt": "online-dynamic-yoga-classes",
+          "w": 480,
+          "h": 720
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "id": "mission",
+      "classes": "Index-page",
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "My mission is to guide people in their journey, emphasising the fact that you don’t have to be super flexible or perfect to do yoga – with some small, positive changes you’ll be able to live a more mindful and present life. As an ex-competitive swimmer and run lover, I’ve always ",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599560220424-4JPIXB4AB9RT0GQLZILG/1Z1A0155.jpg?format=500w",
+          "alt": "online-yoga-classes-with-Ludo",
+          "w": 480,
+          "h": 720
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "testimonials-feed",
+      "classes": "Index-page Index-page--has-image",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "“Ludo is one of the most wonderful souls I've ever met and her classes are amazing! You can be either a newbie like me or an experienced one, Ludo will be there for you every step of the way. Definitely something you don't want to miss out!” — FLO “Ludo is the kind of teacher tha",
+      "images": []
+    },
+    {
+      "index": 6,
+      "id": "blog-feed",
+      "classes": "Index-page",
+      "bg": "rgb(255, 255, 255)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "SO NOW YOU’RE A BLOGGER? COMING SOON! COMING SOON! BLOG",
+      "images": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1602145534499-LF7LWAPOJB4T4003UW9Y/image-asset.jpeg?format=500w",
+          "alt": "So now you’re a blogger?",
+          "w": 500,
+          "h": 333
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599048698671-DV8O9ZAXJ8LNCIX9ALD0/susanna-marsiglia-XqK6fVdzAjU-unsplash.jpg?format=300w",
+          "alt": "Coming Soon!",
+          "w": 300,
+          "h": 450
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599559689560-X2K1C4IYU7UQ7GN8JQJ5/1Z1A0642.jpg?format=300w",
+          "alt": "Coming Soon!",
+          "w": 300,
+          "h": 450
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599048505750-97V26ZVM7PTKUWU43QN4/moon.png",
+          "alt": "moon.png",
+          "w": 0,
+          "h": 0
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "id": "contact",
+      "classes": "Index-page Index-page--has-image",
+      "bg": "rgba(0, 0, 0, 0)",
+      "bgImage": null,
+      "minHeight": "0px",
+      "padding": "0px",
+      "textSample": "GET IN TOUCH I would love to hear from you! ludobolcatoyoga@gmail.com Name First Name (required) Last Name (required) Email (required) Subject (required) Message (required) SUBMIT",
+      "images": []
+    }
+  ],
+  "allImgs": [
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1600775221462-5BUMZJI7C4RVZ0DOXXOA/favicon.png?format=500w",
+      "alt": "Ludo Bolcato",
+      "w": 240,
+      "h": 240
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599564283112-O6UEXTESSLR5DNQW0PCR/edit-1Z1A9078.jpg?format=1500w",
+      "alt": "edit-1Z1A9078.jpg",
+      "w": 1500,
+      "h": 1183
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599053182024-SGGOKYEGBA0769GEXXX6/LIGHTArtboard+7.jpg?format=2500w",
+      "alt": "LIGHTArtboard 7.jpg",
+      "w": 2500,
+      "h": 1768
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599561413228-T7WP0GTNFP9S3MAYUCYQ/edit-1Z1A8894.jpg?format=1500w",
+      "alt": "edit-1Z1A8894.jpg",
+      "w": 1500,
+      "h": 1437
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599052337918-KODWRGAI3338Q0KF97TO/chintya-akemi-keirayuki-fX8leXj8Q4o-unsplash.jpg?format=2500w",
+      "alt": "chintya-akemi-keirayuki-fX8leXj8Q4o-unsplash.jpg",
+      "w": 2500,
+      "h": 1406
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1598975336940-61D3G9CKQ64GYVCVE08D/Artboard+6.png?format=750w",
+      "alt": "Artboard 6.png",
+      "w": 720,
+      "h": 94
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599561469103-8987Z4G06750N95Q5D6F/online-hatha-yoga-classes?format=500w",
+      "alt": "online-hatha-yoga-classes",
+      "w": 480,
+      "h": 720
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599047507685-XXO1U1SODXSX9F52QLYP/online-dynamic-yoga-classes?format=500w",
+      "alt": "online-dynamic-yoga-classes",
+      "w": 480,
+      "h": 720
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1604482039701-5FXXOQTZNEB24HTXEZLR/online-dynamic-yoga-classes?format=500w",
+      "alt": "online-dynamic-yoga-classes",
+      "w": 480,
+      "h": 720
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599560220424-4JPIXB4AB9RT0GQLZILG/1Z1A0155.jpg?format=500w",
+      "alt": "online-yoga-classes-with-Ludo",
+      "w": 480,
+      "h": 720
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1602145534499-LF7LWAPOJB4T4003UW9Y/image-asset.jpeg?format=500w",
+      "alt": "So now you’re a blogger?",
+      "w": 500,
+      "h": 333
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599048698671-DV8O9ZAXJ8LNCIX9ALD0/susanna-marsiglia-XqK6fVdzAjU-unsplash.jpg?format=300w",
+      "alt": "Coming Soon!",
+      "w": 300,
+      "h": 450
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599559689560-X2K1C4IYU7UQ7GN8JQJ5/1Z1A0642.jpg?format=300w",
+      "alt": "Coming Soon!",
+      "w": 300,
+      "h": 450
+    },
+    {
+      "src": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599048505750-97V26ZVM7PTKUWU43QN4/moon.png",
+      "alt": "moon.png",
+      "w": 0,
+      "h": 0
+    }
+  ],
+  "bgUrls": [],
+  "icons": [
+    {
+      "href": "https://images.squarespace-cdn.com/content/v1/5f4e6ca4d96a2e7c741e1dbe/1599561923159-3W9W7NS7IJL6C71CZDLZ/favicon.ico?format=100w",
+      "sizes": "",
+      "rel": "icon"
+    }
+  ],
+  "colors": [
+    "rgb(0, 0, 0)",
+    "rgb(255, 255, 255)",
+    "rgb(0, 26, 22)",
+    "rgb(0, 71, 62)",
+    "rgb(248, 233, 211)",
+    "rgb(11, 10, 10)"
+  ],
+  "fonts": [
+    "futura-pt",
+    "\"futura pt\""
+  ],
+  "fullText": "HOMEABOUTCLASSESTESTIMONIALSBLOGCONTACT\nBOOK A CLASS\nHi, I’m Ludo\nWelcome to this healing space\n\nI’m a yoga teacher with an incredible passion for the way our bodies move. My classes are designed to achieve strength and flexibility, both in the body and in the mind, combining harmonious movements with specific breathing techniques. I always teach my students to bring a sense of joy and playfulness during the practice, accepting and nourishing our strong, incredible bodies.\n\n“BE WHERE YOU ARE, NOT WHERE YOU THINK YOU SHOULD BE.”\n\nMy purpose is to connect with you and help you find more balance in this beautifully chaotic and fast-paced life. \n\nThrough the practice of yoga, I will help you become a better version of yourself (both on and off the mat), empowering you with the tools to adopt a more holistic approach to life and to shine your light bright in the world.\n\nCLASSES\nHATHA YOGA\n\nHatha Yoga connects the body and mind through the practice of asanas (physical postures) and pranayama (breathing exercises). \nFocus and attention will be on the precise alignment of the body to achieve balance both mentally and physically. \n\nBOOK A CLASS\nDYNAMIC YOGA FLOW \n\nThis class will challenge and energise your body through a sequence of fast-flowing transitions designed to enhance strength and flexibility. \nYou will leave the class sweaty, but super zen and uplifted. \n\nBOOK A CLASS\nSTRETCHY FLOW\n\nThis slow and nourishing flow will stretch away the tensions accumulated in the body (and the mind). Each move will be held for longer, incorporating relaxing breathing techniques. Give yourself permission to slow down, melt the stress away while increasing your flexibility and recharging your mind.\n\nBOOK A CLASS\nABOUT\n\nI came to yoga as a way to challenge my then awful flexibility and quiet my restless mind and was instantly struck by the healing powers of this discipline. I was extremely fascinated by the beautiful postures some of my fellow yogis achieved and dreamt of being able to perform some of those magic tricks myself in the future. \nI slowly came to realise that the real magic of yoga wasn’t the ability (or in my case inability) to do some advanced asanas, but rather the process of enjoying and being present in the “here and now”. \n\nMy mission is to guide people in their journey, emphasising the fact that you don’t have to be super flexible or perfect to do yoga – with some small, positive changes you’ll be able to live a more mindful and present life. \n\nAs an ex-competitive swimmer and run lover, I’ve always been passionate about movement. Now as a yoga teacher (and movement addict) I have a deeper knowledge of my own body, which in turn enables me to teach classes where a correct body posture and alignment play a significant role. \nOn this platform I’d like to share with you what I’ve learnt so far so that we can grow stronger together. \n\nLots of love, \nLudo x\n\n“Ludo is one of the most wonderful souls I've ever met and her classes are amazing! You can be either a newbie like me or an experienced one, Ludo will be there for you every step of the way. Definitely something you don't want to miss out!”\n\n— FLO\n\n \n\n“Ludo is the kind of teacher that will put you in the right mood straight away! She’s constantly laughing and smiling and will make you feel at ease independently of your yoga level. Thank you Ludo for making me fall back in love with Yoga!”\n\n— INES\n\n \n\n“Before I met Ludo, I have tried a few other yoga practices. I did not find them enjoyable. I could not focus and connect with myself. Then Ludo and our first yoga together happened. I love her amazing energy, yet calm and balanced voice while she is leading me to find my inner peace and strength in my body. Her online classes are just what I need after a busy day, to ground myself, reconnect, and take care of my physical body. My mind and muscles are so grateful. And do not be surprised if Yoga with Ludo becomes the start of a great friendship.”\n\n— ANJA\n\n \n\n“Ludo’s energy and enthusiasm for yoga is what led me on this journey today. If you have her at your side you will feel relaxed, protected and motivated during any practice. Her smile and her caring for others will capture you right from the start.”\n\n— GIADA\n\n \n\n“Ludo is intuitive, present and a free spirit. She makes you feel grounded in your yoga practice, like there is nothing more important that focusing on the here and now. Being a beginner in yoga, Ludo supports you, and can see your potential and to show you what you are capable of.”\n\n— ELLE\n\nSO NOW YOU’RE A BLOGGER?\n \nCOMING SOON!\n \nCOMING SOON!\nBLOG\nGET IN TOUCH\n\nI would love to hear from you!\n\nludobolcatoyoga@gmail.com\n\nName\nFirst Name\n(required)\nLast Name\n(required)\nEmail\n(required)\nSubject\n(required)\nMessage\n(required)\nSUBMIT\n\nHOME | ABOUT | CLASSES | TESTIMONIALS | BLOG | CONTACT\n\nBOOK A CLASS\nDESIGNED BY VISUABLE"
+}
